@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028846540620",
+    "project_id": "app-gerente-loja",
+    "storage_bucket": "app-gerente-loja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028846540620:android:3dbd41cd49541363c721e9",
+        "android_client_info": {
+          "package_name": "br.com.nascimento.gerenteloja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028846540620-jqo51kg74hfengips5f5tt31t9r1cv63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeAkpLTsCdZGNTCZcnV1L-46NFbA5idU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028846540620-jqo51kg74hfengips5f5tt31t9r1cv63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
